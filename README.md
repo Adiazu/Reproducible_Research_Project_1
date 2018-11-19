@@ -39,5 +39,5 @@ Make a panel plot containing a time series plot (i.e. \color{red}{\verb|type = "
 
 
 
-![](/Users/siri/Desktop/x/Screen Shot 2018-11-18 at 7.08.59 PM.png)
+![](x/Screen Shot 2018-11-18 at 7.08.59 PM.png)
 
